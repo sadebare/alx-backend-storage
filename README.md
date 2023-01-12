@@ -1,2 +1,2 @@
 # alx-backend-storage
-alx advance backend storage
+alx advanced backend storage
